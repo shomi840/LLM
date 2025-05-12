@@ -1,0 +1,61 @@
+Challenge Task:
+
+ 
+
+Objective:
+
+ 
+
+Build a working script or simple tool that can do the following:
+
+ 
+
+1. Accept a public video URL (e.g., Loom or direct MP4 link).
+
+ 
+
+2. Extract the audio from the video.
+
+ 
+
+3. Analyze the speaker’s accent (English-language only).
+
+ 
+
+4. Output:
+
+ 
+
+  - A basic accent classification (e.g., British, American, Australian, etc.)
+
+ 
+
+  - A confidence score (e.g., 0-100%)
+
+ 
+
+  - A short summary or explanation (optional but appreciated)
+
+ 
+
+This tool will be used internally to help evaluate spoken English for hiring purposes.
+
+ 
+
+What We're Looking For:
+
+ 
+
+Top Priority:
+
+ 
+
+- Practicality – Can you build something that actually works?
+
+ 
+
+- Creativity – Did you come up with a smart or resourceful solution?
+
+ 
+
+- Technical Execution – Is it clean, testable, and logically structured?
